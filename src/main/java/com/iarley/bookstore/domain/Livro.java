@@ -1,4 +1,4 @@
-package com.iarley.domain;
+package com.iarley.bookstore.domain;
 
 import java.io.Serializable;
 import java.util.Objects;
